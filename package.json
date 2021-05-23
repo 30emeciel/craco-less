@@ -42,8 +42,8 @@
     "less-loader": "^6.1.0"
   },
   "peerDependencies": {
-    "@craco/craco": "^5.5.0",
-    "react-scripts": "^3.3.0 || ^4.0.0"
+    "@craco/craco": "^6.1.1",
+    "react-scripts": "^4.0.3"
   },
   "husky": {
     "hooks": {
